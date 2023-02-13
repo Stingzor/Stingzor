@@ -7,6 +7,7 @@
 - :space_invader: My primary stacks are JS/TS using Nestjs or hapijs and C#. 
 - 🌱 Learning Kotlin & JVM associated products, also interested in Go.  
 - 📚 MSc. in Digital Development and BSc. in Computer Science.  
+- :heart: Passionate about Distributed Systems, Technical Ownership and Evolutionary Architecture
 - :dizzy: Random facts: Certified Drink Mixologist, Carpenter and Home Automation builder
 
 ## ⚡ Technologies:  
